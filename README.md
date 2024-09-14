@@ -77,9 +77,6 @@
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloaja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelloaja&show_icons=true&locale=en&layout=compact&theme=algolia"/>
+  <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelloaja&" alt="GitHub Streak" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelloaja&" alt="GitHub Streak" />
 </p>
