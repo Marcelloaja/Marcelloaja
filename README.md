@@ -51,11 +51,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloaja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloaja&layout=compact&theme=algolia" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=marcelloaja&theme=algolia" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelloaja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloaja&layout=compact&theme=tokyonight" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=marcelloaja&theme=tokyonight&hide_border=false" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelloaja&bg_color=0d1117&color=00ffcc&line=00ff88&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ---
 
